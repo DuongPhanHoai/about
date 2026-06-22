@@ -87,4 +87,57 @@ Engineering leader with 22+ years in software quality and delivery, including ma
 **KMS Technology | 12/2011 – 03/2021 | Outsourcing**
 
 - Led QA architecture and capability building across the business unit; acted as QA Architect and Lead Coach for 60+ QA engineers.
-- Designed and delivered structured training programs in Automation, Performance, and Security testing, moving teams from manu
+- Designed and delivered structured training programs in Automation, Performance, and Security testing, moving teams from manual-only to engineering-focused QA.
+  - Senior QA track: extending and hardening existing frameworks into robust, reusable automation platforms.
+  - Junior QA track: building scripting skills, maintaining test libraries, and creating reusable components.
+  - Technical QA track: forming a specialist group to rapidly explore new tools/tech, and extend capabilities into performance and security.
+- Organized coaching and mentoring structures, training schedules, and follow-up mechanisms that successfully transformed manual testers into automation engineers.
+- Joined key projects as a hands-on mentor and technical lead, including leading Vietnam test teams for the Boeing 7H7 Pressure Control System.
+
+---
+
+### Earlier Roles (Selected)  
+**Consultant / Senior Developer / SQA Manager / Senior SQA Engineer / QC Leader / Developer**  
+**TMA Solutions, InfoNam, BLogic Systems | 2003 – 2011**
+
+- Held progressively senior roles from Developer to SQA Manager, including leading the VN test team for the Boeing 7H7 project.
+- Built and managed test teams, contributed to automation frameworks, and collaborated closely with development to ensure delivery quality.
+
+---
+
+## INNOVATION & DELIVERY HIGHLIGHTS
+
+- **Automation Tooling & Framework Architecture from Zero**
+  - Using C++ / C# to develop an automation driver for window Apps
+  - Using JS extension/plugin for web-driver
+  - Framework by Java
+  - Support scripting in Excel by keyword-driven, historical report
+
+- **Automation Framework Architecture**
+  - Designed and owned Java + Selenium + TestNG framework:
+    - Wrapped WebDriver to apply robust waits for every action/object
+    - Extended TestNG Listeners for reporting and retry logic
+    - Built plugins to generate historical test reports and enable re-runs of failed suites
+  - Implemented frameworks with Protractor, CodeceptJS, Cypress, and Excel-driven keyword frameworks.
+
+- **Performance, Security & Risk‑Aware Testing at Scale**
+  - Built and promoted performance testing solutions using JMeter for large-scale systems (50M+ users).
+  - Applied OWASP-based tools (e.g., ZAP) for baseline security testing.
+
+- **AI‑Driven Quality & Delivery Initiatives**
+  - From 2018, pioneered the use of AI (Microsoft LUIS) to:
+    - Analyze test case content and generate test data & UI objects
+    - Produce chains of actions for automated execution
+  - Developed a custom driver in C# to execute AI-generated action chains.
+
+---
+
+## EDUCATION & CERTIFICATIONS
+
+- **Engineer of Information Technology, Major in Software Engineering**  
+  Hanoi University of Science and Technology | 1998 – 2003
+
+- **Professional Scrum Master I (PSM I)** | 2019
+
+- **IELTS (Dec 2016): Overall 6.0**  
+  Listening 5.5, Reading 5.5, Writing 6.0, Speaking 6.5
