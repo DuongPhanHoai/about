@@ -39,11 +39,42 @@ You want **tight, structured prompts**, e.g.:
 
 ### What to ask the AI to cover
 
-- **Happy path**: normal inputs and expected outputs  
-- **Boundary cases**: min/max values, empty inputs, null/undefined, large collections  
-- **Error paths**: invalid arguments, exceptions, timeouts  
-- **Stateful behavior**: if your code maintains internal state, ask for tests that verify state transitions  
-- **Concurrency / async**: if applicable, ask explicitly for async tests
+- **Happy path tests**  
+  - Typical, valid inputs and expected successful behavior.
+
+- **Boundary tests**  
+  - Min, max, just-below, just-above values (e.g., 0, 1, max-1, max).  
+  - String length boundaries, collection size boundaries, date/time boundaries.
+
+- **Equivalence partition tests**  
+  - Representative values from each logical partition of input:  
+    - Valid vs invalid ranges  
+    - Different categories (e.g., “basic”, “premium”, “admin”).
+
+- **State transition / state change tests**  
+  - Initial → intermediate → final states.  
+  - Verify behavior depends on state (e.g., NEW → PAID → SHIPPED → CANCELED).  
+  - Ensure illegal transitions are rejected.
+
+- **Tabular / decision table tests**  
+  - Inputs and outputs laid out as a table (good for complex business rules).  
+  - One test per row of the decision table or parameterized tests over rows.  
+  - E.g., combinations of flags, roles, and feature toggles.
+
+- **Error / exception tests**  
+  - Invalid arguments, missing fields, wrong formats.  
+  - External dependency failures (DB down, timeouts, 5xx responses).  
+  - Verify correct exception types, messages, and HTTP status codes.
+
+- **Negative/security tests**  
+  - Unauthorized/unauthenticated access.  
+  - Forbidden operations for certain roles.  
+  - Input that might cause injection, XSS, or broken access control (sanitized in tests).
+
+- **Concurrency / async tests**  
+  - Concurrent requests/operations on the same resource (where applicable).  
+  - Race conditions, locking behavior, optimistic/pessimistic concurrency.  
+  - Asynchronous flows (callbacks, promises, futures).
 
 ### Integration into your workflow
 
