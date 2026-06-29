@@ -1,4 +1,4 @@
-# Duong Phan Hoai [CV](https://drive.google.com/file/d/1Etdpymp4d2qnSvRr_3utsu2qxXreRQib/view?usp=sharing)
+# Duong Phan Hoai [download CV](https://drive.google.com/file/d/1Etdpymp4d2qnSvRr_3utsu2qxXreRQib/view?usp=sharing)
 
 **Email:** duongphanhoai@gmail.com
 **Phone:** +84 909994004
