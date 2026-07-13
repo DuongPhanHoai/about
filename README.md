@@ -99,6 +99,8 @@ Engineering leader with **22+ years** in software quality and delivery, includin
 
 - Unified priorities across engineering, operations, business, and country teams for **high‑risk campaigns**, mediating conflicts between performance/safety and commercial deadlines, and driving clear, jointly owned **go/no‑go decisions**. Ensured stability, quality, and performance of a large-scale logistics microservice platform serving **50M+ users** across Southeast Asia
 - Designed and rolled out a **standard Load Testing program**; trained all QA teams to execute large-scale performance tests and integrate them into regular release cycles
+- Owned **test automation** for several sub-domains — framework direction, suite maintenance, CI integration, and coverage for critical services
+- Owned **performance testing** for the whole **SEA big domain** — scenario design, execution, result analysis, and readiness support across the regional load-testing program
 - **Campaign Manager / PIC** for **6+ major high-traffic campaigns** per year, coordinating preparation and execution across:
   - **Vietnam, Singapore, Hangzhou, and Cainiao** teams
   - **4 large domains** (20–50 members each) plus several smaller domains
