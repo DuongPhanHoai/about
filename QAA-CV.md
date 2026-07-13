@@ -1,6 +1,6 @@
-# Duong Phan Hoai [download CV doc ](https://docs.google.com/document/d/1MrkhRJKwS-JmJHMR5_7MYrtWPHihCaepafwCWz_lPBo/edit?usp=sharing) [- pdf](https://drive.google.com/file/d/10q3KFdV7NoXAPKZsbamU1Wj9mrxZgqen/view?usp=sharing)
+# Duong Phan Hoai [download CV doc ](https://docs.google.com/document/d/1m9ytR3JoskWg9ujMQARadPh-egagcbAUOOQSyNJaIZY/edit?usp=sharing) [- pdf](https://drive.google.com/file/d/1kXRrzEjAU_DM6Uvd2t31z69pUEgZpZJm/view?usp=sharing)
 
-**Engineering Leader | Principal QA | Delivery & Quality Strategy**
+**Principal Quality Engineer | AI & LLM‑Driven Testing | Test Automation Architect**
 
 **Email:** duongphanhoai@gmail.com  
 **Phone:** +84 909 994 004  
@@ -12,16 +12,32 @@
 
 ## Summary
 
-Engineering leader with **22+ years** in software quality and delivery, including managing a **20‑person Quality Engineering organization** and coordinating cross-country, cross-domain programs (**VN, SG, CN, AU, IN**). Proven track record in:
+Principal Quality Engineer with **20+ years** in QA/QE and test automation, with the last several years focused on **AI‑assisted testing, LLMs, agentic RAG,** and **framework architecture**. Proven track record in:
 
-- **Leading and scaling cross‑functional QA/QE teams** (up to **20 reports**; **60+ engineers** mentored)
-- **Owning end‑to‑end quality** for large‑scale, high‑traffic systems (**50M+ users**) in banking, logistics, and aerospace
-- **Driving test automation, performance, and AI‑assisted testing** (Playwright, LLMs, agentic RAG)
-- **Aligning engineering, product, and operations** to deliver complex, high‑risk releases safely
+- **Designing automation and performance architectures** for large, high‑traffic platforms (**50M+ users**)
+- **Applying LLMs/local LLMs** (LM Studio, MCP, agentic RAG) to testing: auto‑healing, scenario generation, regression evaluation
+- **Building and scaling automation/performance/security capabilities** across multiple QA teams and organizations
 
 ---
 
-## Core Strengths
+## Core Technical Skills
+
+### AI & Test/Dev Innovation
+
+- **AI‑assisted testing:** test auto‑healing, scenario generation, LLM‑driven analysis
+- **Agentic RAG, LLM evaluation harnesses,** and local LLM operations
+- Practical integration of AI tools (**Cursor, MCP, LM Studio**) into delivery pipelines
+
+### Test Automation & Framework Architecture
+
+- **Java + Selenium/TestNG**; **JS/TS** (Protractor, Cypress, Playwright); CI integration
+- **JMeter‑based performance testing** and baseline **OWASP/ZAP** security testing
+- Designing and hardening **automation frameworks from scratch**
+
+### Performance & Security
+
+- **Load testing** for platforms serving **50M+ users**; standardized for multiple teams
+- **OWASP/ZAP** baseline security testing integrated into QA capability programs
 
 ### Delivery Management & Quality Strategy
 
@@ -41,18 +57,6 @@ Engineering leader with **22+ years** in software quality and delivery, includin
 - Standardized **QA, load testing, and campaign readiness** processes across multiple domains
 - Strong **stakeholder management** and conflict resolution skills
 
-### AI & Test/Dev Innovation
-
-- **AI‑assisted testing:** test auto‑healing, scenario generation, LLM‑driven analysis
-- **Agentic RAG, LLM evaluation harnesses,** and local LLM operations
-- Practical integration of AI tools (**Cursor, MCP, LM Studio**) into delivery pipelines
-
-### Test Automation & Framework Architecture
-
-- **Java + Selenium/TestNG**; **JS/TS** (Protractor, Cypress, Playwright); CI integration
-- **JMeter‑based performance testing** and baseline **OWASP/ZAP** security testing
-- Designing and hardening **automation frameworks from scratch**
-
 ---
 
 ## Experience
@@ -61,15 +65,15 @@ Engineering leader with **22+ years** in software quality and delivery, includin
 
 **Self‑initiated, 2025–2026**
 
-**Student Management Agentic RAG** (Python · MCP · Neo4j · SQLite · LM Studio)
-
-- Built a **hybrid agentic RAG prototype**
-- Exposed via **MCP** (proxy vs tools modes); multi-suite LLM eval cases and multi-model comparison
-
 **Playwright AI Auto-Heal Framework** (TypeScript · Playwright · LM Studio)
 
 - **Post-failure pipeline:** analyze Playwright JSON failures with local LLM → structured fix plan → policy-governed page-object patches
 - Hybrid deterministic failure classification plus LLM batch analysis; dry-run, and self-hosted GitHub Actions workflow
+
+**Student Management Agentic RAG** (Python · MCP · Neo4j · SQLite · LM Studio)
+
+- Built a **hybrid agentic RAG prototype**
+- Exposed via **MCP** (proxy vs tools modes); multi-suite LLM eval cases and multi-model comparison
 
 **End-to-end AI-assisted delivery (Pairing Trading System)**
 
@@ -133,12 +137,12 @@ Various roles at TMA Solutions, InfoNam, BLogic Systems | 2003 – 2011
 
 ## Innovation & Delivery Highlights
 
-### AI-Assisted Test Auto-Healing (2025–2026 · self-initiated R&D)
+### Agentic RAG, MCP & LLM Quality Engineering (2025–2026 · self-initiated R&D)
 
-- Designed a **post-failure auto-heal pipeline** for Playwright + TypeScript: failed run → LLM analysis of JSON results → structured fix plan → optional page-object patches
-- Enforced **policy-governed repair:** category rules (locators/timing vs backend/business logic), confidence thresholds, path allowlists, dry-run/audit modes — practical “self-heal” without unsafe blind fixes
-- Combined **deterministic failure classification** (selector mismatch, call logs, page-object source comparison) with local LLM batch analysis (LM Studio); integrated into GitHub Actions (self-hosted)
-- **Stack:** Playwright, TypeScript, OpenAI-compatible local APIs, Zod, GitHub Actions
+- Built an **agentic RAG prototype** combining SQLite (structured student metrics, dynamic risk views) and Neo4j (policy → intervention graph paths), with LLM planning, tool execution, replanning, and grounded answer synthesis
+- Exposed the agent via **Model Context Protocol (MCP)** — dual modes: full proxy pipeline vs tools mode for IDE hosts (Cursor); added `guide_student_query` to route SQL vs graph correctly and reduce tool misuse
+- Created a **test evaluation harness** (planning, SQL, graph, KG, chart, integration, ETL) with layered test design, and multi-model benchmarking (pass rate + latency, CSV history, HTML comparison reports)
+- **Stack:** Python, LangChain, FastMCP, LM Studio, Neo4j, SQLite, pytest
 
 ### Pairing Trading System — Personal Full-Stack Delivery Project
 
@@ -148,12 +152,12 @@ Various roles at TMA Solutions, InfoNam, BLogic Systems | 2003 – 2011
 - Solved complex integration constraints in MT5 workflows using **subprocess isolation, timeout protection,** and clear ownership between Server, Client, and helper components
 - Demonstrated ability to translate a rough business idea into a **production-oriented system** with documentation, release process, and measurable quality controls
 
-### Agentic RAG, MCP & LLM Quality Engineering (2025–2026 · self-initiated R&D)
+### AI-Assisted Test Auto-Healing (2025–2026 · self-initiated R&D)
 
-- Built an **agentic RAG prototype** combining SQLite (structured student metrics, dynamic risk views) and Neo4j (policy → intervention graph paths), with LLM planning, tool execution, replanning, and grounded answer synthesis
-- Exposed the agent via **Model Context Protocol (MCP)** — dual modes: full proxy pipeline vs tools mode for IDE hosts (Cursor); added `guide_student_query` to route SQL vs graph correctly and reduce tool misuse
-- Created a **test evaluation harness** (planning, SQL, graph, KG, chart, integration, ETL) with layered test design, and multi-model benchmarking (pass rate + latency, CSV history, HTML comparison reports)
-- **Stack:** Python, LangChain, FastMCP, LM Studio, Neo4j, SQLite, pytest
+- Designed a **post-failure auto-heal pipeline** for Playwright + TypeScript: failed run → LLM analysis of JSON results → structured fix plan → optional page-object patches
+- Enforced **policy-governed repair:** category rules (locators/timing vs backend/business logic), confidence thresholds, path allowlists, dry-run/audit modes — practical “self-heal” without unsafe blind fixes
+- Combined **deterministic failure classification** (selector mismatch, call logs, page-object source comparison) with local LLM batch analysis (LM Studio); integrated into GitHub Actions (self-hosted)
+- **Stack:** Playwright, TypeScript, OpenAI-compatible local APIs, Zod, GitHub Actions
 
 ### AI-Accelerated QE at Scale — NAB (2025–2026)
 
