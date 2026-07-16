@@ -63,7 +63,7 @@ Principal Quality Engineer with **20+ years** in QA/QE and test automation, with
 
 ### AI & LLM Experiments
 
-**Self‑initiated, 2025–2026**
+**Self‑initiated** | 01/2026 – present | AI focus
 
 **Playwright AI Auto-Heal Framework** (TypeScript · Playwright · LM Studio)
 

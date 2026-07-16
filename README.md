@@ -59,7 +59,7 @@ Engineering leader with **22+ years** in software quality and delivery, includin
 
 ### AI & LLM Experiments
 
-**Self‑initiated, 2025–2026**
+**Self‑initiated** | 01/2026 – present | AI focus
 
 **Student Management Agentic RAG** (Python · MCP · Neo4j · SQLite · LM Studio)
 
