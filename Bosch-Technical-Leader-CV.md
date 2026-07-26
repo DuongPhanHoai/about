@@ -2,10 +2,14 @@
 
 **Senior Technical & Engineering Leader | Software Platform Delivery | System Integration & Performance**
 
-**Email:** duongphanhoai@gmail.com  
-**Phone:** +84 909 994 004  
-**Location:** Vietnam  
-**LinkedIn:** https://www.linkedin.com/in/duong-phan-hoai  
+**Email:** duongphanhoai@gmail.com
+
+**Phone:** +84 909 994 004
+
+**Location:** Vietnam
+
+**LinkedIn:** https://www.linkedin.com/in/duong-phan-hoai
+
 **GitHub:** https://github.com/DuongPhanHoai
 
 ---
@@ -133,7 +137,8 @@ Proven strengths include:
 
 ### Earlier Engineering and Leadership Roles
 
-**Consultant / Senior Developer / SQA Manager / Senior SQA Engineer / QC Leader / Developer**  
+**Consultant / Senior Developer / SQA Manager / Senior SQA Engineer / QC Leader / Developer**
+
 **TMA Solutions, InfoNam, BLogic Systems** | 2003 – 2011
 
 - Progressed from software Developer and Senior Developer into technical leadership and engineering-management roles
@@ -157,10 +162,10 @@ Proven strengths include:
 
 ## Education & Certification
 
-**Engineer of Information Technology, Major in Software Engineering**  
+**Engineer of Information Technology, Major in Software Engineering**
+
 Hanoi University of Science and Technology | 1998 – 2003
 
 **Professional Scrum Master I (PSM I)** | 2019
 
 **IELTS** | Overall 6.0 | 2016
-
