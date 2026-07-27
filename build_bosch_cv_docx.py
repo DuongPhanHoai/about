@@ -9,7 +9,7 @@ from pathlib import Path
 
 from docx import Document
 from docx.enum.style import WD_STYLE_TYPE
-from docx.enum.text import WD_BREAK, WD_LINE_SPACING
+from docx.enum.text import WD_LINE_SPACING
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
@@ -38,7 +38,7 @@ def set_cell_border(cell, **edges):
 
 def configure_styles(document: Document) -> None:
     styles = document.styles
-    normal = styles["Normal"]
+    normal = styles["normal"]
     normal.font.name = "Arial"
     normal.font.size = Pt(9)
     normal.font.color.rgb = DARK
