@@ -1,8 +1,8 @@
 # System-Level QA Strategy for a Robot Fleet Coordination Release
 
-**Candidate:** [Name]  
-**Role:** Senior Software Quality Assurance Engineer  
-**Document status:** Draft for submission  
+**Candidate:** [Name]<br>
+**Role:** Senior Software Quality Assurance Engineer<br>
+**Document status:** Draft for submission<br>
 **Testing window:** One week, simulation only
 
 ## 1. Executive Summary
@@ -580,12 +580,12 @@ A blind robot or service restart is not the first action: it may destroy evidenc
 
 **Title:** `[S1] Cluster of robots becomes non-responsive in one storage zone during long-running full-system simulation`
 
-**Severity / Priority:** Severity 1 / P0 pending safety review  
-**Status:** New — investigation in progress  
-**Detected in:** Fleet Coordination RC `[build]`; simulator `[build]`  
-**Environment:** Full-system digital twin; map `[version]`; config `[version]`; seed `[seed]`  
-**Regression:** Unknown until replay against the production baseline completes  
-**Frequency:** Intermittent; observed approximately every few simulated hours (`[N]/[total runs]`)  
+**Severity / Priority:** Severity 1 / P0 pending safety review<br>
+**Status:** New — investigation in progress<br>
+**Detected in:** Fleet Coordination RC `[build]`; simulator `[build]`<br>
+**Environment:** Full-system digital twin; map `[version]`; config `[version]`; seed `[seed]`<br>
+**Regression:** Unknown until replay against the production baseline completes<br>
+**Frequency:** Intermittent; observed approximately every few simulated hours (`[N]/[total runs]`)<br>
 **Components:** Fleet coordination, telemetry/command transport, intersection/reservation state; simulator remains a possible contributor
 
 ### Summary
