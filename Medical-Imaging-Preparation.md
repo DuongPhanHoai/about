@@ -1,4 +1,4 @@
-# NVIDIA Deep Learning Medical Imaging Preparation
+# Deep Learning Medical Imaging Preparation
 
 ## Purpose
 
@@ -195,7 +195,7 @@ Split datasets by **patient**, not by individual image or slice. Otherwise, imag
 
 ---
 
-## Step 7: Learn the Relevant NVIDIA and Python Stack
+## Step 7: Learn the Relevant GPU and Python Stack
 
 Confirm the actual team stack before treating every item as mandatory.
 
@@ -271,7 +271,7 @@ Do not assume that every standard applies. Requirements differ among research to
 
 ## Step 10: Use AI Tools Safely
 
-- [ ] Learn NVIDIA's approved AI-tool policy.
+- [ ] Learn the employer's approved AI-tool policy.
 - [ ] Do not submit internal code, medical data, model files, logs, or screenshots to unapproved services.
 - [ ] Treat prompts and generated outputs as potentially confidential.
 - [ ] Apply human review to AI-generated code and tests.
@@ -279,7 +279,7 @@ Do not assume that every standard applies. Requirements differ among research to
 - [ ] Maintain auditability for AI-assisted changes.
 - [ ] Understand data-retention and model-training policies before using an external service.
 
-Personal ChatGPT, Cursor, LM Studio, or other AI tools must not receive NVIDIA confidential information unless explicitly approved.
+Personal ChatGPT, Cursor, LM Studio, or other AI tools must not receive company-confidential information unless explicitly approved.
 
 ---
 
@@ -347,7 +347,7 @@ Use a public dataset and an official or reputable MONAI example.
 2. Learn the team's medical-image modality and data formats.
 3. Refresh model architecture and evaluation fundamentals.
 4. Focus deeply on data quality and patient-level evaluation.
-5. Learn MONAI and the relevant NVIDIA inference stack.
+5. Learn MONAI and the relevant GPU inference stack.
 6. Build a small public-data validation project.
 7. Study medical safety, privacy, and traceability requirements.
 8. Enter the team with a learn-first, evidence-based improvement approach.
